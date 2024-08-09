@@ -1,0 +1,16 @@
+{
+    "marketplace_prod": {
+        "host": "",
+        "db": "marketplace",
+        "user": "postgres",
+        "password": "",
+        "port": ""
+    },
+    "dwh": {
+        "host": "",
+        "db": "dwh",
+        "user": "postgres",
+        "password": "",
+        "port": ""
+    }
+}
